@@ -10,20 +10,15 @@ For model development, a Decision Tree and a Random Forest classifier are implem
 
 Finally, the models are compared in terms of performance and business applicability. The ultimate goal is to identify customers at risk of churn at an early stage and enable targeted retention measures.
 
-# 1 
+# 1 Project Telco Customer Churn
 
 [Link to the project: Telco Customer Churn ](https://www.kaggle.com/code/sgoeren24/projekt-telco-customer-churn-v3)
 
-# 2
+# 2 Language & Libraries
 
 - **Python** as the programming language for data analysis and modeling
-
 - **Pandas** for data preprocessing and manipulation
-
 - **NumPy** for numerical computations
-
 - **Matplotlib** and **Seaborn** for data visualization and analytical plots
-
 - **Scikit-learn** for implementing and evaluating machine learning models (Decision Tree, Random Forest)
-
 - **Kaggle Notebooks** as the development environment
