@@ -12,7 +12,7 @@ Finally, the models are compared in terms of performance and business applicabil
 
 # 1 
 
-[Link zum Projekt](https://www.kaggle.com/code/sgoeren24/projekt-telco-customer-churn-v3)
+[Link to the project: Telco Customer Churn ](https://www.kaggle.com/code/sgoeren24/projekt-telco-customer-churn-v3)
 
 # 2
 
